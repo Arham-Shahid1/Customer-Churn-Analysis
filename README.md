@@ -1,1 +1,1 @@
-# Customer-Churn-Analysis
+This project focuses on analyzing customer churn in the telecom industry using Python. By leveraging exploratory data analysis (EDA), we aim to identify key factors that influence customer retention and churn. The dataset includes customer demographics, usage patterns, and subscription details, allowing for a comprehensive study of churn behavior.
